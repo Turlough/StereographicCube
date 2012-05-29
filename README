@@ -1,0 +1,13 @@
+This is an applet that displays a stereographic cube.
+Red-Green glasses will show the cube as a 3D wireframe.
+The cube's motion is controlled by arrow keys.
+
+INSTRUCTIONS
+Extract all files to a folder.
+Wear red-green 3D glasses
+Run the HTML file (Test3DSimple.html). Use the arrow keys to control motion.
+
+COMMENT
+Coding was done with TextPad, a graphical text editor with a built in java compiler.
+I'll uploat a .bat file for recompiling sources, so that they all get compiled in the right order.
+I have not done so yet.
