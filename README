@@ -1,6 +1,6 @@
 This is an applet that displays a stereographic cube.
-Red-Green glasses will show the cube as a 3D wireframe.
-The cube's motion is controlled by arrow keys.
+Wearing Red-Green glasses will show the cube as a 3D wireframe.
+The cube's motion is controlled by the arrow keys.
 
 INSTRUCTIONS
 Extract all files to a folder.
